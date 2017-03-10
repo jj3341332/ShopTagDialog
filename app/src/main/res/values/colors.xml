@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorMoney">#fff4511e</color>
+    <color name="colorText">#666666</color>
+    <color name="textColor">#333333</color>
+    <color name="backGroundColor">#F5F5F5</color>
+    <color name="clickTextColor">#FFFFFF</color>
+    <color name="clickBackGroundColor">#FF5000</color>
+</resources>
